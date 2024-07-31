@@ -4,3 +4,6 @@ Projeto de extensão desenvolvido na disciplina de Aplic. de Cloud, Iot e Indús
 # Link do projeto no site TinkerCad
 https://www.tinkercad.com/things/iK9ETMSYxKt-projeto-sistema-automatico-de-iluminacao-de-garagem-com-arduino
 
+`Projeto modelado no TinkerCad`
+<img src="/img/tela-projeto-tinkercad.png" alt="Projeto modelado no TinkerCad"/>
+
